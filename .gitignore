@@ -1,0 +1,16 @@
+# Emacs
+*~
+\#*\#
+.\#*
+
+# Backups
+*.bak
+
+# OSX
+.DS_store
+
+# RCS
+RCS
+
+# ink
+*.json
