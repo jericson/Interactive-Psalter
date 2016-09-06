@@ -13,9 +13,6 @@ often used in private devotion as prompts for prayer.
 
 This project brings the personal devotion and responsive reading
 together via the modern medium of
-[interactive fiction](http://www.ifarchive.org/)[^1].
-
-
-[^1]: Please don't be offended by the word "fiction"; it might be
-    easier to just refer to it by the acronym IF.)
-
+[interactive fiction](http://www.ifarchive.org/). (Please don't be
+offended by the word "fiction"; it might be easier to just refer to it
+by the acronym IF.) 
