@@ -31,6 +31,12 @@ deeply. Enforcing a pause (at least long enough for the reader to
 click on the next line) certainly gives the reader a chance to
 interact with the meanings behind the words she is reading.
 
+For a live demo, please visit
+[my GitHub page](https://jericson.github.io/Interactive-Psalter/)
+(with the latest changes) or my
+[itch.io page](https://jlericson.itch.io/interactive-psalter) (usually
+older and tested).
+
 ## Sources for the text
 
 I have chosen to use the
