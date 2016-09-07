@@ -7,7 +7,6 @@ INCLUDE credits.ink
 
 === menu ===
 
-Psalm <>
 * [1] -> psalm_1
 * [103] -> psalm_103
 * [145] -> psalm_145

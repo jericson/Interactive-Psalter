@@ -5,7 +5,7 @@ Psalm 1
 - (one) {1 The praises of a man are that he did|,|,|.}
 *   not follow the counsel of the wicked<> -> one
 *   not stand in the way of sinners<> -> one
-*   nor sit in the company of scorners<> -> one
+*   not sit in the company of scorners<> -> one
 * -> two
 
 - (two) 2 But his desire is in the law of the Lord,

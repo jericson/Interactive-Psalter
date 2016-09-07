@@ -30,7 +30,7 @@ Of David.
 -    the Lord had mercy on those who fear Him.
 * 14 For He knows our creation;
 -    He remembers that we are dust.
-* 15 As for man-his days are like grass;
+* 15 As for man—his days are like grass;
 -    like a flower of the field, so does he sprout.
 * 16 For a wind passes over him and he is no longer here;
 -    and his place no longer recognizes him.
