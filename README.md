@@ -40,7 +40,7 @@ older and tested).
 ## Sources for the text
 
 I have chosen to use the
-[1917 edition](https://jps.org/books/holy-scriptures-tanakh-1917-edition/
+[1917 edition](https://jps.org/books/holy-scriptures-tanakh-1917-edition/)
 of _The Holy Scriptures_ translated and published by the Jewish
 Publication Society. While it's not an ideal translation, it possesses
 two critical features:
